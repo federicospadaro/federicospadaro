@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @federicospadaro
-- 👀 I’m interested in IT Infrastructure
-- 🌱 I’m currently learning Autmation with powershell 
+- 👋 Hi, I’m @ZioSpranga
+- 👀 I’m interested in IT Infrastructure (VMware, Microsoft, Veeam)
+- 🌱 I’m currently learning Automation with powershell and powercli
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
